@@ -1,0 +1,151 @@
+{
+	"Admin" : [{
+			"email" 	: 	"Admin@gmail.com",
+			"Pass"		:	"Admin123"	
+		}],
+	"User"	:[{
+		
+		}],
+	"gambar" : [
+	{
+		"no"	: 1,
+		"id"	: "pr-006",
+		"url"	: "../../assets/img/product/Door Bumper.jpg",
+		"nama"	: "Door Bumper",
+		"price"	: "$29.00"
+	},
+	{
+		"no"	: 2,
+		"id"	: "pr-001",
+		"url"	: "../../assets/img/product/Amber Soap.jpg",
+		"nama"	: "Amber Soap",
+		"price"	: "$15.00"
+	},
+	{
+		"no"	: 3,
+		"id"	: "pr-002",
+		"url"	: "../../assets/img/product/Arditi Backpack.jpg",
+		"nama"	: "Arditi Backpack",
+		"price"	: "$50.00"
+	},
+	{
+		"no"	: 4,
+		"id"	: "pr-003",
+		"url"	: "../../assets/img/product/Blaster Orange Bag.jpg",
+		"nama"	: "Blaster Orange Bag",
+		"price"	: "$30.00"
+	},
+	{
+		"no"	: 5,
+		"id"	: "pr-004",
+		"url"	: "../../assets/img/product/Canvas Basket.jpg",
+		"nama"	: "Canvas Basket",
+		"price"	: "$10.00"
+	},
+	{
+		"no"	: 6,
+		"id"	: "pr-005",
+		"url"	: "../../assets/img/product/Classic Chair.jpg",
+		"nama"	: "Classic Chair",
+		"price"	: "$62.00"
+	},
+	{
+		"no"	: 7,
+		"id"	: "pr-007",
+		"url"	: "../../assets/img/product/Flower Candleholder.jpg",
+		"nama"	: "Flower Candleholder",
+		"price"	: "$10.00"
+	},
+	{
+		"no"	: 8,
+		"id"	: "pr-008",
+		"url"	: "../../assets/img/product/Clueless Clock.jpg",
+		"nama"	: "Clueless Clock",
+		"price"	: "$31.00"
+	},
+	{
+		"no"	: 9,
+		"id"	: "pr-009",
+		"url"	: "../../assets/img/product/Hans Backpack.jpg",
+		"nama"	: "Hans Backpack",
+		"price"	: "$50.00"
+	},
+	{
+		"no"	: 10,
+		"id"	: "pr-010",
+		"url"	: "../../assets/img/product/Laptop Bag.jpg",
+		"nama"	: "Laptop Bag",
+		"price"	: "$42.00"
+	},
+	{
+		"no"	: 11,
+		"id"	: "pr-011",
+		"url"	: "../../assets/img/product/Lighthouse Lantern.jpg",
+		"nama"	: "Lighthouse Lantern",
+		"price"	: "$25.00"
+	},
+	{
+		"no"	: 12,
+		"id"	: "pr-012",
+		"url"	: "../../assets/img/product/Pendulum Lamp.jpg",
+		"nama"	: "Pendulum Lamp",
+		"price"	: "$5.00"
+	},
+	{
+		"no"	: 13,
+		"id"	: "pr-013",
+		"url"	: "../../assets/img/product/Plain Glass Bottle.jpg",
+		"nama"	: "Plain Glass Bottle",
+		"price"	: "$22.00"
+	},
+	{
+		"no"	: 14,
+		"id"	: "pr-014",
+		"url"	: "../../assets/img/product/Press Coffee Maker.jpg",
+		"nama"	: "Press Coffee Maker",
+		"price"	: "$31.00"
+	},
+	{
+		"no"	: 15,
+		"id"	: "pr-015",
+		"url"	: "../../assets/img/product/Savana Sunglasses.jpg",
+		"nama"	: "Savana Sunglasses",
+		"price"	: "$19.00"
+	},
+	{
+		"no"	: 16,
+		"id"	: "pr-016",
+		"url"	: "../../assets/img/product/Specs Sunglasses.jpg",
+		"nama"	: "Specs Sunglasses",
+		"price"	: "$19.00"
+	},
+	{
+		"no"	: 17,
+		"id"	: "pr-017",
+		"url"	: "../../assets/img/product/Rattan Basket.jpg",
+		"nama"	: "Rattan Basket",
+		"price"	: "$13.00"
+	},
+	{
+		"no"	: 18,
+		"id"	: "pr-018",
+		"url"	: "../../assets/img/product/Glassbottle.jpg",
+		"nama"	: "Glassbottle",
+		"price"	: "$14.00"
+	},
+	{
+		"no"	: 19,
+		"id"	: "pr-019",
+		"url"	: "../../assets/img/product/Sachet.jpg",
+		"nama"	: "Sachet",
+		"price"	: "$20.00"
+	},
+	{
+		"no"	: 20,
+		"id"	: "pr-020",
+		"url"	: "../../assets/img/product/wood-tray.jpg",
+		"nama"	: "Wood-tray",
+		"price"	: "$23.00"
+	}
+	]
+}

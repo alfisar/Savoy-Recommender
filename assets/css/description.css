@@ -1,0 +1,105 @@
+/* descriptionpage css*/
+
+.row-product-showcase {
+    height: 120vh;
+    background-color: red;
+}
+
+.product-image {
+    height: 95%;
+    width: auto;
+    margin-left: 5em;
+}
+
+.row-product-cap {
+    margin-top: 8em;
+}
+
+.row-product-quantity {
+    margin-top: 4em;
+    width: 80%;
+    height: auto;
+}
+
+.product-quantity {
+    width: 100%;
+    height: auto;
+}
+
+#btnAddToCart {
+    background-color: #282828;
+    color: #ffffff;
+    width: 100%;
+    border-radius: 0;
+    padding: 12px;
+    margin-top: 8%;
+}
+
+#btnAddToCart:hover {
+    background-color: #eab245;
+}
+
+#btnAddingProduct {
+    background-color: #eeeeee;
+    font-size: 2em;
+}
+
+#btnSubtractProduct {
+    background-color: #eeeeee;
+    font-size: 2em;
+}
+
+#quantityProduct {
+    font-size: 2em;
+    margin-top: 15%;
+    color: #eab245;
+}
+
+#productPrice {
+    padding: 0 0 1em 0;
+    color: #eab245;
+}
+
+#productCaption {
+    width: 80%;
+}
+
+.product-description {
+    height: auto;
+    background-color: #ffffff;
+    width: 100%;
+}
+
+.row-product-description {
+    width: 100%;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    height: auto;
+}
+
+#descriptionText {
+    font-size: 1.3em;
+    color: #8f8f8f;
+}
+
+.product-identity {
+    height: 10vh;
+    border-top: 2px solid #e7e7e7;
+    border-bottom: 2px solid #e7e7e7;
+    box-sizing: content-box;
+}
+
+.product-identity p {
+    margin-top: 2%;
+    font-size: 1.3em;
+}
+
+.comment a {
+    color: #282828;
+    text-decoration: none;
+    transition: .3s ease;
+}
+
+.comment a:hover {
+    color: #f4c20c;
+}

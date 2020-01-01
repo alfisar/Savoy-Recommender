@@ -1,0 +1,43 @@
+.sign-in{
+	text-align: center;
+	margin-top: 10%;
+}
+
+.sign-bg{
+    height: 20vh;
+    background-color: #282828;
+}
+
+.sign-bg h2{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btn-in{
+    background-color: #282828;
+    color: white;
+    font-size: 1.2em;
+    transition: .3s ease;
+}
+
+.btn-in:hover{
+    background-color: #eab245;
+}
+
+.regme a{
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+    padding: 0.5em 2em;
+    background-color: #282828;
+    border-radius: 0.15em;
+    transition: .3s ease;
+}
+
+.regme a:hover{
+    background-color: #eab245;
+    color: white;
+}

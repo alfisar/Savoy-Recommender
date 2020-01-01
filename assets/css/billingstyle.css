@@ -1,0 +1,53 @@
+.container{
+	font-family: sans-serif;
+}
+
+.item-dummy{
+	margin-top: 30px;
+	max-width: 20%;
+	vertical-align: middle;
+	margin-right: 10px;
+}
+
+.price{
+	display: inline;
+	padding: 110px;
+}
+
+#billingF{
+	margin-top: 30px;
+}
+
+.table{
+	margin-top: 15px;
+	border: 1px 1px 1px 1px solid;
+}
+
+.btn-dark{
+	width: 100%;
+	margin-bottom: 20%;
+	background-color: #282828;
+	color: white;
+	border: none;
+}
+
+.btn-dark:hover{
+	background-color: #eab245;
+}
+
+#helpLine{
+	font-size: 10px;
+	margin-left: 5px;
+}
+
+.zip-cont{
+	margin-top: 10px;
+}
+
+.phone-cont{
+	margin-top: 10px;
+}
+
+.address-cont{
+	margin-top: 10px;
+}

@@ -1,0 +1,22 @@
+.upper-text{
+	margin-top: 30%;
+}
+
+#accMenu{
+	margin-top: 10%;
+	text-decoration: none;
+	margin-bottom: 30%;
+}
+
+.name-me{
+    background-color: #282828;
+    height: 26vh;
+    color: white;
+}
+
+.name-me h1{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

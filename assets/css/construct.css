@@ -1,0 +1,173 @@
+.row-space {
+    margin: 4% 0;
+}
+
+.row-card {
+    margin-top: 8%;
+}
+
+.card {
+    border: none;
+}
+
+.card-img-top {
+    border-radius: 0;
+    width: 100%;
+}
+
+.card-body {
+    margin: 0;
+    margin-top: 4%;
+    padding: 0;
+}
+
+/*Jumbotron*/
+
+.jumbo-header {
+    background-image: url("../img/header.jpg");
+    background-size: cover;
+    background-position:center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    /* Create the parallax scrolling effect */
+}
+
+.header-caption{
+    position: relative;
+    top: 75%;
+    left: 60%;
+    transform: translate(-60%,-50%);
+    padding: 0 0 0 4em;
+}
+
+.header-caption h1{
+    font-size: 7em;
+}
+
+.header-caption p{
+    font-size: 3em;
+}
+
+
+/*footer*/
+footer {
+    background-color: #282828;
+}
+
+.for-footer {
+    color: #cecece;
+}
+
+.for-footer .nav a {
+    font-size: 12pt;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.for-footer .nav a:hover {
+    color: white;
+}
+
+#quantityNum {
+    color: #eab245;
+}
+
+/*Card Likes and Hover Image*/
+
+.oi-heart{
+    font-size: 0.8em;
+    cursor: pointer;
+}
+
+.heart-clicked{
+    color: #ff2626;
+}
+
+.oi-magnifying-glass{
+    color:white;
+    font-size: 1.3em;
+}
+
+.img-view{
+    opacity: 1;
+    display: block;
+    transition: .5s ease;
+    background-color: #282828;
+    height: auto;
+}
+
+.img-view-bg{
+    background-color: black;
+}
+
+.img-mid-btn {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 43%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.img-view-bg:hover .img-view{
+    opacity: 0.4;
+}
+
+.img-view-bg:hover .img-mid-btn{
+    opacity: 1;
+}
+
+.card-body p{
+    font-size: 1.15em;
+}
+
+.card-body a {
+    color: #282828;
+    text-decoration: none;
+    transition: .3s ease;
+}
+
+.card-body a:hover {
+    color: #f4c20c;
+}
+
+.bottom-bar{
+    border-top: 1px solid #b7b7b7;
+    border-bottom: 1px solid #b7b7b7;
+    height: 9vh;
+}
+
+.bottom-bar p{
+    margin-top: 1em;
+    color: #848484;
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (max-width: 426px) {
+    .jumbo-header{
+        background: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0,0.7)), url("../img/login.jpg") no-repeat;
+        color: white;
+        background-size: cover;
+        background-position: center;
+    }
+
+    .header-caption{
+        position: relative;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        padding: 0 2em;
+    }
+
+    .header-caption h1{
+        font-size: 5em;
+        text-align: center;
+    }
+
+    .header-caption p{
+        font-size: 2em;
+        text-align: center;
+    }
+}

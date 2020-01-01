@@ -1,0 +1,115 @@
+/* descriptionpage css*/
+
+.product-showcase-r {
+    height: 120vh;
+    width: auto;
+    background-color: #eeeeee;
+}
+
+.product-showcase-l {
+    height: 120vh;
+    width: auto;
+    background-color: #eeeeee;
+}
+
+.product-showcase-l img{
+    max-height: 100%;
+    max-width: 100%;
+}
+
+/*product detail*/
+
+.product-detail{
+    position: relative;
+}
+
+.product-detail h5{
+    color: #eab245;
+}
+
+.product-detail .col-md-8{
+    margin: 0;
+    position: relative;
+    top: 20vh;
+}
+
+.product-detail button{
+    background-color: #282828;
+    color: #ffffff;
+    width: 100%;
+    border-radius: 0;
+    padding: 12px;
+    margin-top: 8%;
+}
+
+.product-detail button:hover{
+    background-color: #eab245;
+}
+
+/*product code*/
+.product-code    {
+    border-top: 1px solid #cecece;
+    border-bottom: 1px solid #cecece;
+}
+
+.product-code p{
+    margin: 0;
+    padding: 1em 0 1em 0;
+    font-size: 1.5em
+}
+
+.row-product-cap {
+    margin-top: 8em;
+}
+
+.row-product-quantity {
+    margin-top: 4em;
+    width: 80%;
+    height: auto;
+}
+
+.product-quantity {
+    width: 100%;
+    height: auto;
+}
+
+.commentme a{
+    color: white;
+    text-decoration: none;
+    font-size: 1.25em;
+    padding: 0.5em 1em;
+    background: #282828;
+    transition: .2s ease;
+}
+
+.commentme a:hover{
+    background-color: #eab245;
+    color: white;
+    text-decoration: none;
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .product-showcase-r{
+        background: white;
+        height: 60vh;
+    } 
+
+    .product-detail .col-md-8{
+        margin: 0;
+        position: relative;
+        top: 5vh;
+    }
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { ... }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { ... }
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { ... }
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { ... }
